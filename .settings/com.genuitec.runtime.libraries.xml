@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <container path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/com.genuitec.embedded.tomcat.runtime.v85">
+    <jar-attrs id="lib//servlet-api.jar">
+      <attribute name="source_encoding" value="UTF-8"/>
+      <attribute name="source-path" value="D:\apache-tomcat-7.0.79-src.zip"/>
+      <attribute name="source-path-root"/>
+      <attribute name="javadoc_location"/>
+    </jar-attrs>
+  </container>
+</project>
